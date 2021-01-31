@@ -11,7 +11,7 @@ public class Write {
 	public static void main(String[] args) {
 
 		// 1. Define the file (path) that we want to read
-		String filename = "C:\\Users\\dell\\Files\\writeFile.txt";
+		String filename = "files\\writeFile.txt";
 		String message = " I'm writing data that will be placed to a file";
 
 		// 2. Create the file in java

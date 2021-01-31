@@ -11,7 +11,7 @@ public class Read {
 	public static void main(String[] args) {
 
 		// 1. Define the file (path) that we want to read
-		String filename = "C:\\Users\\dell\\Files\\readFile.txt";
+		String filename = "files\\readFile.txt";
 		String text = null;
 
 		// 2.Create the file in java

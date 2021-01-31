@@ -11,7 +11,7 @@ public class PhoneNumberApp {
 	public static void main(String[] args) {
 		// This will read a text file and will retreive phone number
 
-		String filename = "C:\\Users\\dell\\Files\\PhoneNumber.txt";
+		String filename = "files\\PhoneNumber.txt";
 
 		File file = new File(filename);
 		String[] phoneNums = new String[6];

@@ -13,7 +13,7 @@ public class Lab4 {
 
 		List<String[]> data = new ArrayList<String[]>();
 		String dataRow;
-		String filename = "C:\\Users\\dell\\Files\\CCStatement.csv";
+		String filename = "files\\CCStatement.csv";
 		double balance = 0;
 		try {
 			BufferedReader br = new BufferedReader(new FileReader(filename));

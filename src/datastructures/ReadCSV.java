@@ -14,7 +14,7 @@ public class ReadCSV {
 		// This method will read data from CSV file
 		List<String[]> data = new ArrayList<String[]>();
 
-		String filename = "C:\\Users\\dell\\Files\\accounts.csv";
+		String filename = "files\\accounts.csv";
 		String dataRow;
 		try {
 			// open the file

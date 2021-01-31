@@ -10,7 +10,7 @@ public class Lab3 {
 
 	public static void main(String[] args) {
 
-		String filename = "C:\\Users\\dell\\Files\\Password.txt";
+		String filename = "files\\Password.txt";
 
 		File file = new File(filename);
 		String[] passwords = new String[13];
